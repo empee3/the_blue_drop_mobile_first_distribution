@@ -1,0 +1,74 @@
+; Packaging information for the_blue_drop_mobile_first_distribution
+name = "The Blue Drop Mobile First Distribution"
+description = "A mobile-first Drupal 7 distribution using Zurb Foundation as a base theme"
+core = "7.x"
+; ----------
+; Dependencies
+; ----------
+; @font-your-face
+dependencies[] = fontyourface
+dependencies[] = google_fonts_api
+; Administration
+dependencies[] = module_filter
+; Chaos tool suite
+dependencies[] = ctools
+; Core
+dependencies[] = block
+dependencies[] = comment
+dependencies[] = contextual
+dependencies[] = dashboard
+dependencies[] = field
+dependencies[] = field_sql_storage
+dependencies[] = field_ui
+dependencies[] = file
+dependencies[] = filter
+dependencies[] = help
+dependencies[] = image
+dependencies[] = list
+dependencies[] = menu
+dependencies[] = node
+dependencies[] = number
+dependencies[] = options
+dependencies[] = path
+dependencies[] = rdf
+dependencies[] = search
+dependencies[] = system
+dependencies[] = taxonomy
+dependencies[] = text
+dependencies[] = update
+dependencies[] = user
+; Date/Time
+dependencies[] = date
+dependencies[] = date_api
+dependencies[] = date_popup
+dependencies[] = date_views
+; Development
+dependencies[] = devel
+dependencies[] = profiler_builder
+dependencies[] = profiler_builder_extras
+; Fields
+dependencies[] = entityreference
+dependencies[] = find_content
+; Media
+dependencies[] = imce
+; Other
+dependencies[] = entity
+dependencies[] = libraries
+dependencies[] = navbar
+dependencies[] = pathauto
+dependencies[] = token
+; Statistics
+dependencies[] = googleanalytics
+; User interface
+dependencies[] = imce_wysiwyg
+dependencies[] = jquery_update
+dependencies[] = wysiwyg
+; Views
+dependencies[] = views
+dependencies[] = views_ui
+; Webform
+dependencies[] = webform
+; Features
+dependencies[] = features
+dependencies[] = initial_config
+
