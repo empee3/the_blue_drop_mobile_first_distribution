@@ -4,7 +4,7 @@
  *
  * Perform actions to set up the site for this profile.
  */
-function the_blue_drop_mobile_first_distributioninstall() {
+function blue_drop_mobile_first_install() {
   // Enable some the_blue_drop_mobile_first_distribution blocks.
   $default_theme = 'subtheme';
   $admin_theme = 'seven';

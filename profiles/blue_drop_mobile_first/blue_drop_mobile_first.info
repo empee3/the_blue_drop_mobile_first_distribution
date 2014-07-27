@@ -1,4 +1,4 @@
-; Packaging information for the_blue_drop_mobile_first_distribution
+; Packaging information for blue_drop_mobile_first
 name = "The Blue Drop Mobile First Distribution"
 description = "A mobile-first Drupal 7 distribution using Zurb Foundation as a base theme"
 core = "7.x"
